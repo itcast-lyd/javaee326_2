@@ -6,5 +6,6 @@ public class Hehe {
       System.out.println("bbb");
 	     System.out.println("ccc");
       System.out.println("idea");
+	     System.out.println("wangba");
    }
 }
